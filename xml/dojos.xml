@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="./dojos.xsl"?>
+
+<dojos>
+<name>dojos general template</name>
+    <dojo id="mugendo-fight-club" city="LA">
+        <name>Mugendo Fight Club LA</name>
+        <adress>43 Fifth avenue</adress>
+        <city>Los Angeles</city>
+        <country>California</country>
+        <m2>100</m2>
+        <structure>Tatami, gloves, punchbag, weigh</structure>
+        <owner>Master Ricard Grey</owner>
+        <secretary>Anne Douchamp</secretary>
+        <instructors>
+            <instructor>
+                <name>Pol</name>
+                <surname>White</surname>
+                <level>1 dan</level>
+                <experience>3 years</experience>
+                <age>22</age>
+            </instructor>
+            <instructor>
+                <name>Dan</name>
+                <surname>Redsen</surname>
+                <level>Red/Black</level>
+                <experience>Half year</experience>
+                <age>28</age>
+            </instructor>
+            <instructor>
+                <name>Miren</name>
+                <surname>Certic</surname>
+                <level>Black</level>
+                <experience>One year</experience>
+                <age>37</age>
+            </instructor>
+        </instructors>
+        <prices>
+            <price entrance="1">60</price>
+            <price entrance="2">70</price>
+            <price entrance="3">80</price>
+            <price entrance="ill">100</price>
+            <halfyear>400</halfyear>
+            <anual>700</anual>
+        </prices>
+        <classes>
+            <class name="panda">
+                <m>4pm</m>
+                <t>4pm</t>
+                <w>4pm</w>
+                <tx>4px</tx>
+                <f>4pm</f>
+            </class>
+            <class name="tiger">
+                <m>4.45pm</m>
+                <t>4.45pm</t>
+                <w>4.45pm</w>
+                <tx>4.45pm</tx>
+                <f>4.45pm</f>
+            </class>
+            <class name="lion">
+                <m>5.30pm</m>
+                <t>5.30pm</t>
+                <w>5.30pm</w>
+                <tx>5.30pm</tx>
+                <f>5.30pm</f>
+            </class>
+            <class name="adult">
+                <m>6.30pm</m>
+                <t>7.30pm</t>
+                <w>6.30pm</w>
+                <tx>7.30pm</tx>
+                <f>6.30pm</f>
+            </class>
+            <class name="advanced">
+                <m>7.30pm</m>
+                <t>6.30pm</t>
+                <w>7.30pm</w>
+                <tx>6.30pm</tx>
+                <f>7.30pm</f>
+            </class>
+        </classes>
+    </dojo>
+    <dojo id="1" city="LA">
+        <name>Mugendo BBC Club LA</name>
+        <adress>56 Regan avenue</adress>
+        <city>Los Angeles</city>
+        <country>California</country>
+        <m2>80</m2>
+        <structure>Tatami, gloves, punchbag, weigh</structure>
+        <owner>Master Ricard Grey</owner>
+        <secretary>Anne Douchamp</secretary>
+        <instructors>
+            <instructor>
+                <name>Pol</name>
+                <surname>White</surname>
+                <level>1 dan</level>
+                <experience>3 years</experience>
+                <age>22</age>
+            </instructor>
+            <instructor>
+                <name>Dan</name>
+                <surname>Redsen</surname>
+                <level>Red/Black</level>
+                <experience>Half year</experience>
+                <age>28</age>
+            </instructor>
+            <instructor>
+                <name>Miren</name>
+                <surname>Certic</surname>
+                <level>Black</level>
+                <experience>One year</experience>
+                <age>37</age>
+            </instructor>
+        </instructors>
+        <prices>
+            <price entrance="1">60</price>
+            <price entrance="2">70</price>
+            <price entrance="3">80</price>
+            <price entrance="ill">100</price>
+            <halfyear>400</halfyear>
+            <anual>700</anual>
+        </prices>
+        <classes>
+            <class name="panda">
+                <m>4pm</m>
+                <t>4pm</t>
+                <w>4pm</w>
+                <tx>4px</tx>
+                <f>4pm</f>
+            </class>
+            <class name="tiger">
+                <m>4.45pm</m>
+                <t>4.45pm</t>
+                <w>4.45pm</w>
+                <tx>4.45pm</tx>
+                <f>4.45pm</f>
+            </class>
+            <class name="lion">
+                <m>5.30pm</m>
+                <t>5.30pm</t>
+                <w>5.30pm</w>
+                <tx>5.30pm</tx>
+                <f>5.30pm</f>
+            </class>
+            <class name="adult">
+                <m>6.30pm</m>
+                <t>7.30pm</t>
+                <w>6.30pm</w>
+                <tx>7.30pm</tx>
+                <f>6.30pm</f>
+            </class>
+            <class name="advanced">
+                <m>7.30pm</m>
+                <t>6.30pm</t>
+                <w>7.30pm</w>
+                <tx>6.30pm</tx>
+                <f>7.30pm</f>
+            </class>
+        </classes>
+    </dojo>
+    <dojo id="2" city="NY">
+        <name>Mugendo Fight Club NY</name>
+        <adress>43 Fifth avenue</adress>
+        <city>Los Angeles</city>
+        <country>California</country>
+        <m2>100</m2>
+        <structure>Tatami, gloves, punchbag, weigh</structure>
+        <owner>Master Ricard Grey</owner>
+        <secretary>Anne Douchamp</secretary>
+        <instructors>
+            <instructor>
+                <name>Pol</name>
+                <surname>White</surname>
+                <level>1 dan</level>
+                <experience>3 years</experience>
+                <age>22</age>
+            </instructor>
+            <instructor>
+                <name>Dan</name>
+                <surname>Redsen</surname>
+                <level>Red/Black</level>
+                <experience>Half year</experience>
+                <age>28</age>
+            </instructor>
+            <instructor>
+                <name>Miren</name>
+                <surname>Certic</surname>
+                <level>Black</level>
+                <experience>One year</experience>
+                <age>37</age>
+            </instructor>
+        </instructors>
+        <prices>
+            <price entrance="1">60</price>
+            <price entrance="2">70</price>
+            <price entrance="3">80</price>
+            <price entrance="ill">100</price>
+            <halfyear>400</halfyear>
+            <anual>700</anual>
+        </prices>
+        <classes>
+            <class name="panda">
+                <m>4pm</m>
+                <t>4pm</t>
+                <w>4pm</w>
+                <tx>4px</tx>
+                <f>4pm</f>
+            </class>
+            <class name="tiger">
+                <m>4.45pm</m>
+                <t>4.45pm</t>
+                <w>4.45pm</w>
+                <tx>4.45pm</tx>
+                <f>4.45pm</f>
+            </class>
+            <class name="lion">
+                <m>5.30pm</m>
+                <t>5.30pm</t>
+                <w>5.30pm</w>
+                <tx>5.30pm</tx>
+                <f>5.30pm</f>
+            </class>
+            <class name="adult">
+                <m>6.30pm</m>
+                <t>7.30pm</t>
+                <w>6.30pm</w>
+                <tx>7.30pm</tx>
+                <f>6.30pm</f>
+            </class>
+            <class name="advanced">
+                <m>7.30pm</m>
+                <t>6.30pm</t>
+                <w>7.30pm</w>
+                <tx>6.30pm</tx>
+                <f>7.30pm</f>
+            </class>
+        </classes>
+    </dojo>
+</dojos>

@@ -1,0 +1,36 @@
+body {
+    font-family:verdana,helvetica,sans-serif;
+}
+
+.dojo__box {
+    display:inline-block;
+    border:5px solid mediumpurple;
+    padding:20px;
+    background: lightyellow;
+}
+
+.istructor__box {
+    display:inline-block;
+    border:5px solid mediumpurple;
+    padding:20px;
+    background: lightyellow;
+}
+.price {
+    background: lightyellow;
+}
+.price--special {
+    background: lightsalmon;
+}
+.classes {
+    border:5px solid mediumpurple;
+}
+.classes tr td {
+    border-bottom:2px solid firebrick;
+}
+.classes tr th {
+    background: antiquewhite;
+    border-bottom:2px solid black;
+}
+.classes th,td {
+    padding:5px;
+}
